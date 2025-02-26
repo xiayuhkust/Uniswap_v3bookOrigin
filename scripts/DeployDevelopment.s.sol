@@ -97,7 +97,7 @@ contract DeployDevelopment is Script, TestUtils {
                 4545,
                 5500,
                 1 ether,
-                5000 ether
+                1000 ether
             )
         );
         manager.mint(
